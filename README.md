@@ -8,4 +8,4 @@ I'm Donovan, I like doing TypeScript 24/7, not doing any school work ever, and s
 > **Updated on October 2, 2020**
 
 - [Furry Bot](https://furry.bot)
-- [E621Downloader](https://github.com/DonovanDMC/E621Downloader) (currently private)
+- [E621Downloader](https://github.com/DonovanDMC/E621Downloader)
