@@ -10,6 +10,6 @@ I'm Donovan, I like doing TypeScript 24/7, not doing any school work ever, and s
 > **Updated on January 19, 2021**
 
 - [Furry Bot](https://furry.bot)
-- [E621Downloader](https://github.com/FurryBotCo/E621Downloader)
-- [Yiffy](https://github.com/FurryBotCo/Yiffy) [API](https://yiff.rest)
+- [E621Downloader](https://e621.download)
+- [Yiffy](https://yiff.rest)
 - [Plunge Communications Inc.](https://github.com/PlungeCommunications)
