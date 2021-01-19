@@ -7,7 +7,9 @@ I'm Donovan, I like doing TypeScript 24/7, not doing any school work ever, and s
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonovanDMC&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Current Projects
-> **Updated on November 5, 2020**
+> **Updated on January 19, 2021**
 
 - [Furry Bot](https://furry.bot)
-- [E621Downloader](https://github.com/DonovanDMC/E621Downloader)
+- [E621Downloader](https://github.com/FurryBotCo/E621Downloader)
+- [Yiffy](https://github.com/FurryBotCo/Yiffy) [API](https://yiff.rest)
+- [Plunge Communications Inc.](https://github.com/PlungeCommunications)
