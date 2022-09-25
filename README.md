@@ -11,13 +11,11 @@ I'm Donovan, I like sleeping and ignoring everyone.
 ## Current Projects
 > **Updated on September 25th, 2022**
 
-### [Oceanic](https://github.com/oceanicJS/Oceanic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OceanicJS&repo=Oceanic&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### [Maid Boye](https://maid.gay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=MaidBoye&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### [E621 Module](https://npm.im/e621)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=E621&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### [Yiffy API](https://yiff.rest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=YiffyAPI&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### [Project Expansion (mc mod)](https://www.curseforge.com/minecraft/mc-mods/project-expansion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=ProjectExpansion&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+|                                            Project                                           |                                                                                          Card                                                                                         |
+|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                        [Oceanic](https://github.com/oceanicJS/Oceanic)                       |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OceanicJS&repo=Oceanic&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)        |
+|                                 [Maid Boye](https://maid.gay)                                |        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=MaidBoye&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)       |
+|                              [E621 Module](https://npm.im/e621)                              |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=E621&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)         |
+|                                [Yiffy API](https://yiff.rest)                                |        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=YiffyAPI&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)       |
+| [Project Expansion (mc mod)](https://www.curseforge.com/minecraft/mc-mods/project-expansion) |    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=ProjectExpansion&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   |
+|                ~~[Eris](http://github.com/abalabahaha/eris)~~ **(Previously)**               | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abalabahaha&repo=eris&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&show_owner=true) |
