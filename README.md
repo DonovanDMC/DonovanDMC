@@ -8,14 +8,14 @@ I'm Donovan, I like sleeping and ignoring everyone.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonovanDMC&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Current Projects
-> **Updated on May 7th, 2023**
+### Current Projects
+> **Updated on July 9th, 2024**
 
 |Project|Card|
 |:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Oceanic](https://oceanic.ws)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OceanicJS&repo=Oceanic&theme=tokyonight)](https://github.com/OceanicJS/Oceanic)|
 |[Maid Boye](https://maid.gay)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=MaidBoye&theme=tokyonight)](https://github.com/DonovanDMC/MaidBoye)|
 |[E621 Module](https://npm.im/e621)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=E621&theme=tokyonight)](https://github.com/DonovanDMC/E621)|
+|[E621](https://oceanic.ws)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e621ng&repo=e621ng&theme=tokyonight)](https://github.com/e621ng/e621ng)|
 |[Yiffy](https://npm.im/yiffy)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=Yiffy&theme=tokyonight)](https://github.com/DonovanDMC/Yiffy)|
-|[Websites](https://github.com/DonovanDMC/Websites)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=Websites&theme=tokyonight)](https://github.com/DonovanDMC/Websites)|
 |[Project Expansion (mc mod)](https://www.curseforge.com/minecraft/mc-mods/project-expansion)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonovanDMC&repo=ProjectExpansion&theme=tokyonight)](https://github.com/DonovanDMC/ProjectExpansion)|
